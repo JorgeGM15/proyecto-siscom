@@ -1,0 +1,22 @@
+
+# Archivos temporales de Python
+**/__pycache__/
+**/*.py[cod]
+**/.venv/
+**/venv/
+
+# Archivos temporales de Quartus
+**/db/
+**/incremental_db/
+**/*.qws
+
+# Archivos generados por Quartus
+**/output_files/*
+!**/output_files/*.sof
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Descomentar si no queremos subir capturas CSV:
+# **/captures/*.csv

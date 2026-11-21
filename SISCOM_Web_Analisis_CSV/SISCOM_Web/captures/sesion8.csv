@@ -1,0 +1,1 @@
+timestamp_s,t_rel_s,sequence,raw_x,raw_y,raw_z,ax_g,ay_g,az_g,ax_ms2,ay_ms2,az_ms2,total_ms2,dynamic_x_ms2,dynamic_y_ms2,dynamic_z_ms2,dynamic_total_ms2,roll_deg,pitch_deg,tilt_reliable,lost_packets_total,sample_rate_hz
